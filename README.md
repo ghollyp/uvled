@@ -7,3 +7,5 @@ of diodes controlled by [Raspberry Pi](https://www.raspberrypi.org/). The contro
 In order to place the matrix precisely on the paper I have built simple XY gantry controlled by [Arduino](https://www.arduino.cc/) Uno with [grbl](https://github.com/gnea/grbl/) shield.
 
 [![Video](http://img.youtube.com/vi/WYwF4qghXoo/0.jpg)](http://www.youtube.com/watch?v=WYwF4qghXoo "Cyanotype with UV LED Matrix - click to watch")
+
+For more information please check out uvled [wiki](https://github.com/ghollyp/uvled/wiki)
