@@ -1,4 +1,7 @@
 # Cyanotype with UV LED Matrix
+
+![uvled logo](https://github.com/ghollyp/uvled/wiki/pictures/uvled-logo-800.jpg)
+
 ## What is it ?
 As the title may suggest it is a combination of a photographic printing technique called [Cyanotype](https://en.wikipedia.org/wiki/Cyanotype) 
 and [Ultraviolet](https://en.wikipedia.org/wiki/Ultraviolet) [Light-emitting diodes](https://en.wikipedia.org/wiki/Light-emitting_diode) as a 
