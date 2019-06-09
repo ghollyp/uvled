@@ -1,5 +1,7 @@
-# Cyanotype with UV LED Matrix
+# See us on Maker Faire Prague 2019
+[![Maker Faire Prague 2019](https://github.com/ghollyp/uvled/wiki/pictures/MFP2019_5.jpg)](https://prague.makerfaire.com/)
 
+# Cyanotype with UV LED Matrix
 ![uvled logo](https://github.com/ghollyp/uvled/wiki/pictures/uvled-logo-800.jpg)
 
 ## What is it ?
